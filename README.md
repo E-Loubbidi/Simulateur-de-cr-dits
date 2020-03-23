@@ -3,4 +3,6 @@ Dev JEE Servlet JSP MVC
 
 Extract the file Banque.rar, open project in Eclipse IDE for Enterprise Java Developers and run it.
 
-![Formulaire1](Capture1.png)
+![Formulaire1](Capture1.PNG)
+
+![Formulaire1](Capture2.PNG)
