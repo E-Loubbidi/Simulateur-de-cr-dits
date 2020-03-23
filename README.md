@@ -1,2 +1,2 @@
-# Simulateur-de-cr-dits
+# Simulateur-de-crédits
 Dev JEE Servlet JSP MVC
